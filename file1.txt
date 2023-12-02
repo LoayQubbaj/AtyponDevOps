@@ -1,1 +1,9 @@
 this is the first file done by Ahmad
+copying file1 to develop branch
+this line is added on the feature branch by Ahmad
+this edit has been made by Samer on the feature branch
+this is a second edit made by Samer on the feature branch
+this change is done by Ahmad
+testing by Ahmad
+QA Checking the file in the release file
+>>>>>>> develop
