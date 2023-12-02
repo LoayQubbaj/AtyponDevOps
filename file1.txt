@@ -1,2 +1,5 @@
 copying file1 to develop branch
 this line is added on the feature branch by Ahmad
+this edit has been made by Samer on the feature branch
+this is a second edit made by Samer on the feature branch
+
